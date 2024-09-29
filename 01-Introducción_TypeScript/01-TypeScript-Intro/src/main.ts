@@ -5,4 +5,6 @@ import './style.css'
 /* import './topics/05-basic-destructuring' */
 /* import './topics/06-funtion-destructuring' */
 /* import './topics/07-Importaciones-y-exportaciones' */
-import './topics/08-ClasesBasicas'
+// import './topics/09.Generic'
+// import './topics/10-Decorators'
+ import './topics/11-optional-chainig'
